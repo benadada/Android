@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application de messagerie</string>
+    <string name="mdp">Taper votre mdp</string>
+    <string name="login">Taper votre login</string>
+    <string name="BtClear">Clear</string>
+    <string name="BtLogin">Login</string>
+    <string name="title_activity_message">Message</string>
+</resources>
